@@ -221,11 +221,7 @@
   * Reference: [[Link]](https://www.youtube.com/watch?v=95EB_owpQDA&t=104s)
 * **More Detailed CPU with Input** [[Poster]](https://drive.google.com/file/d/1sxkoPg_PTSs_UsVwOf6tl1WHnVPhL_dj/view?usp=drive_link) [[Video]](https://drive.google.com/file/d/120LlqpcVPGKch7wcLMhBA2QD_3LpkjYy/view?usp=drive_link)
   * Author: 김시경
-  * Reference: [[Link]](https://core-basic.tistory.com/entry/%EC%BB%B4%ED%93%A8%ED%84%B026-%EC%8
-  2%B0%EC%88%A0%EB%85%BC%EB%A6%AC%EC%9E%A5%EC%B9%98-%EC%A0%9C%E
-  C%96%B4%EC%9E%A5%EC%B9%98-RAM-%EC%B4%9D%EC%A0%95%EB%A6%AC-%EB%
-  B0%8F-CPU-%EA%B5%AC%ED%98%84-ALU-Arithmetic-Logic-Unit-CU-Contol-Unit-R
-  AM-Random-Access-Memory-Central-Processing-Unit)
+  * Reference: [[Link]](https://core-basic.tistory.com/)
 
 
 
