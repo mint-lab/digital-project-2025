@@ -205,7 +205,7 @@
 ### Calculators and CPU
 * **8 Digit Decimal Calculator** [[Poster]](https://drive.google.com/file/d/19WXLUg0rfS85SnvRLlVXXMCSQs3MU41i/view?usp=drive_link) [[Video]](https://drive.google.com/file/d/1TpnXcf4xy0wccOIeZeHUOV5YjtcTh_GE/view?usp=drive_link)
   * Author: 김태영
-  * Reference: [[Link]](https://www.youtube.com/watch?v=qSNtQA0LGA4\)
+  * Reference: [[Link]](https://www.youtube.com/watch?v=qSNtQA0LGA4)
 * **32-point FFT Processor** [[Poster]](https://drive.google.com/file/d/1WKXsmv8BynPQFLdwL4kn05oqgJOWGUtk/view?usp=drive_link) [[YouTube]](https://www.youtube.com/watch?v=ZW9dUYjlikI)
   * Author: 드 마우니 루이스
 * **8-bit Calculator** [[Poster]](https://drive.google.com/file/d/1ZWzrgDLhHCXVv02W64AKqlcnlQEcuwSr/view?usp=drive_link) [[Video]](https://drive.google.com/file/d/1ym1qPa3sPSgWDfr5Dww9bst3nvKjrPDy/view?usp=drive_link)
