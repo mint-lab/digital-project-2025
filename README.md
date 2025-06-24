@@ -141,8 +141,6 @@
 * **Tic-Tac-Toe** [[Poster]](https://drive.google.com/file/d/1DkCdXZUS6mImFufiZMaiAEOun_h_9eti/view?usp=drive_link) [[Video]](https://drive.google.com/file/d/1o82916ofmT92q7xK6ONnkG8kwJj_rJXI/view?usp=drive_link)
   * Authors: 난킨자치라인, 이먓판
   * Reference: [[Link]](https://github.com/CristhianPeverelli/Logisim-Tris-Project)
-* **Tic-Tac-Toe**
-  * Authors: 난킨자치라인, 이먓판
 * **Endless Tic Tac Toe** [[Poster]](https://drive.google.com/file/d/1TzNiVR70CnU9qU-aRj_oKYJG-wgSEG0t/view?usp=drive_link) [[Video]](https://drive.google.com/file/d/1A1nkgTm8aeHd6i58TsNxnCkDPyoHCINN/view?usp=drive_link)
   * Author: 신주원
 
